@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsAssignment", "Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismAssignment", "PolymorphismAssignment\PolymorphismAssignment.csproj", "{0598B193-D78D-4CC0-A5EB-960A6EC9E4BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackjackGameAssignment", "BlackjackGameAssignment\BlackjackGameAssignment.csproj", "{CC4844F0-00DF-42E3-B0B9-9DE891B56678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstNewDatabaseSample", "CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample.csproj", "{EEC6D98F-947C-4662-9EC6-94A587FA8DA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0598B193-D78D-4CC0-A5EB-960A6EC9E4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0598B193-D78D-4CC0-A5EB-960A6EC9E4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0598B193-D78D-4CC0-A5EB-960A6EC9E4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4844F0-00DF-42E3-B0B9-9DE891B56678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4844F0-00DF-42E3-B0B9-9DE891B56678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4844F0-00DF-42E3-B0B9-9DE891B56678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4844F0-00DF-42E3-B0B9-9DE891B56678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC6D98F-947C-4662-9EC6-94A587FA8DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC6D98F-947C-4662-9EC6-94A587FA8DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC6D98F-947C-4662-9EC6-94A587FA8DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC6D98F-947C-4662-9EC6-94A587FA8DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
